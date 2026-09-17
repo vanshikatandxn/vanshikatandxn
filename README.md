@@ -10,6 +10,33 @@
 
 I'm a fresher passionate about turning raw data into business decisions. I build end-to-end data projects that span analytics, machine learning, data engineering, and AI ,because I believe a great data professional understands the full picture, not just one piece of it.
 ---
+🚀 Featured Projects
+
+Three of these are actively being built — check the status column for where each one stands.
+
+<table> <tr> <td width="33%" valign="top">
+🔍 RAG Document Q&A
+
+CLI tool that answers questions about a PDF using Retrieval-Augmented Generation — TF-IDF retrieval + Claude API, returning cited, grounded answers.
+
+Stack: Python, Claude API, TF-IDF Status: ✅ Working, tested, MIT licensed
+
+</td> <td width="33%" valign="top">
+🔄 ELT Pipeline: Airflow + Postgres
+
+A hands-on data engineering project practicing orchestration, idempotent upserts, a layered raw → staging → marts Postgres schema, data-quality checks, and CI on every push.
+
+Stack: Airflow, PostgreSQL, Docker, GitHub Actions Status: 🟡 Pipeline and schema built, architecture docs in progress
+
+</td> <td width="33%" valign="top">
+📊 Sales Insights AI
+
+AI-powered sales analysis — cleaned and modeled 2,800+ order records, building toward a RAG + agent system that answers natural-language questions about sales performance.
+
+Stack: Python, pandas, (planned: vector DB, Claude, Streamlit) Status: 🟡 Data cleaned & explored, dashboard + AI layer in progress
+
+</td> </tr> </table>
+
 
 ## 🛠️ Tech Stack
 
