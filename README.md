@@ -43,8 +43,14 @@ My focus is **retrieval-augmented generation**, **data pipelines**, and turning 
 | **Exploring** | PySpark, AWS, GCP, MLflow |
 
 ---
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanshikatandxn&theme=transparent" height="160" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanshikatandxn&theme=transparent" height="160" alt="Top languages"/>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikatandxn&show_icons=true&hide_border=true&theme=transparent" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikatandxn&layout=compact&hide_border=true&theme=transparent" height="160" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com/?user=vanshikatandxn&hide_border=true&theme=transparent" height="160" alt="GitHub streak"/>
 </p>
+
+
+
